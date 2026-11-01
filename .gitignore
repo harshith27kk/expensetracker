@@ -1,3 +1,14 @@
 .idea
 build
 .gradle
+
+# dependencies
+node_modules
+
+# build output
+dist
+
+# environment variables (contains secrets — never commit)
+.env
+.env.local
+.env.*.local
