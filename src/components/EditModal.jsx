@@ -4,7 +4,7 @@ import { useApp } from '../context/AppContext';
 import { formatInputINR, stripCommas } from '../utils/currency';
 
 const INCOME_CATEGORIES     = ['Salary', 'Freelance', 'Gift', 'Bonus', 'Other'];
-const EXPENSE_CATEGORIES    = ['Rent', 'Groceries', 'Utilities', 'Transport', 'Entertainment', 'Healthcare', 'Education', 'Dining', 'Shopping', 'Fitness', 'Other'];
+const EXPENSE_CATEGORIES    = ['Rent', 'Groceries', 'Utilities', 'Transport', 'Entertainment', 'Healthcare', 'Education', 'Dining', 'Shopping', 'Fitness', 'Credit Card Bill', 'Other'];
 const INVESTMENT_CATEGORIES = ['Stocks', 'SIP / Mutual Fund', 'PPF', 'Fixed Deposit', 'Gold', 'Real Estate', 'Crypto', 'NPS', 'Savings', 'Other'];
 
 const TYPE_CONFIG = {

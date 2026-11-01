@@ -8,7 +8,7 @@ const ALL_CATEGORIES = [
   'All',
   'Salary', 'Freelance', 'Investment', 'Gift',
   'Rent', 'Groceries', 'Utilities', 'Transport', 'Entertainment',
-  'Healthcare', 'Education', 'Dining', 'Shopping', 'Savings', 'Fitness', 'Other',
+  'Healthcare', 'Education', 'Dining', 'Shopping', 'Savings', 'Fitness', 'Credit Card Bill', 'Other',
 ];
 
 export default function Transactions() {
